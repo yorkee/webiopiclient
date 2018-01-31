@@ -1,0 +1,9 @@
+.room {
+  text-align: center;
+  display:table;
+  width: 100%;
+  table-layout:fixed;
+  padding:0;
+  margin:0;
+  height:100%;
+}
